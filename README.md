@@ -26,13 +26,13 @@ Make sure you have the following prerequisites before you start:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone git@gitlab.com:a_mohit/todo-application-angular.git
+   git clone https://github.com/andemohit/todo-mohit.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd todo-application-angular
+   cd todo-mohit
    ```
 
 3. Install the project dependencies:
@@ -40,6 +40,12 @@ Make sure you have the following prerequisites before you start:
    ```bash
    npm install
    ```
+
+4. Build the project:
+
+    ```bash
+    ng build
+    ```
 
 ## Usage
 
